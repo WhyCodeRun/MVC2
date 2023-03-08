@@ -45,3 +45,5 @@ TEST/
 mvnw
 mvnw.cmd
 pom.xml
+
+common/
